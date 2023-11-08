@@ -147,7 +147,7 @@
 
 ![](diagrams/lab3.png)
 
-Презентация
+[Презентация](https://docs.google.com/presentation/d/1oWZIO97veA2Kg0duYmmxjr_WRnL5d4Tk/edit#slide=id.p1)
 
 **Задание**
 1. Добавить контейнер с RabbitMQ
@@ -164,7 +164,7 @@
 
 ![](diagrams/lab4.png)
 
-Презентация
+[Презентация](https://docs.google.com/presentation/d/1IiAbJeQxnoM8iRmBfDJMzFtDL6mdC1_b/edit?usp=drive_web&ouid=101402898313988385194&rtpof=true)
 
 **Задание**
 1. Поднять два отдельных контейнера с API. Каждый из них должен добавлять в ответ собственную метку, чтобы было понятно, какой из контейнеров ответил (например, через HTTP-хедер)
